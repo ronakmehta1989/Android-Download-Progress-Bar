@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ProgressBar Tutorial</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button">Download File</string>
+    <string name="title_activity_main">ProgressBar Tutorial</string>
+
+</resources>
